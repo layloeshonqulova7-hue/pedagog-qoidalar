@@ -1,0 +1,5 @@
+Inter — Copyright (c) 2016 The Inter Project Authors (https://github.com/rsms/inter)
+SIL Open Font License, Version 1.1 — https://openfontlicense.org
+Fayllar lotin va kengaytirilgan lotin belgilari uchun qisqartirilgan (subset).
+
+Lora — Copyright The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic), SIL Open Font License 1.1.
